@@ -20,4 +20,4 @@ preparing the questions and answers for it and processing the
 results. This project RecruMax can accomplish the work in a short
 period of time.
 
-[embed]https://drive.google.com/file/d/1tpMXOHL6n1tH-5uJrirDugIyU758_IaZ/view?usp=sharing.pdf[/embed]
+Documentation: https://drive.google.com/file/d/1tpMXOHL6n1tH-5uJrirDugIyU758_IaZ/view?usp=sharing
