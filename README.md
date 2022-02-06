@@ -14,7 +14,7 @@ RecruMax automates activities like conducting the exam for
 applied candidates and giving the results. It will help in eliminating
 the inefficient candidates and at the same time it provides the
 ability to choose the best and suitable candidates for the required
-jobs.<br>
+jobs.<br><br>
 The existing system has manual processing which
 takes more time to filter the candidates by conducting the exams,
 preparing the questions and answers for it and processing the
